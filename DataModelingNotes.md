@@ -31,3 +31,7 @@ Movies-->MovieID,MTitle,Rating
 Credits-->MovieID,MTitle,CCode,ArtistID
 Shows-->TheatreID,Tname,MTitle,ShowTime
 Artists-->ArtistID,Name
+
+Link the diagram here
+
+![MoviesTonightERD](MoviesTonightERD.png)
